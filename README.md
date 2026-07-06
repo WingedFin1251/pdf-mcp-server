@@ -18,8 +18,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/pdf-server.git
-cd pdf-server
+git clone https://github.com/WingedFin1251/pdf-mcp-server.git
+cd pdf-mcp-server
 
 # 安装依赖
 pip install fastmcp pypdf
